@@ -1,8 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://nexuslabs-dev.vercel.app/icons/logo.svg" alt="Nexus Labs Logo" width="120" />
-</p>
-
+<img src="./banner.png">
 <h1 align="center">✨ Bem-vindo à <strong>Nexus Labs</strong> ✨</h1>
 <h3 align="center">Web Design Inteligente. Resultados Reais.</h3>
 
